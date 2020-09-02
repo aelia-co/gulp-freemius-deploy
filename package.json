@@ -1,6 +1,6 @@
 {
   "name": "aelia-gulp-freemius-deploy",
-  "version": "1.1.0.200902",
+  "version": "1.1.0",
   "description": "Deploy a zip file to Freemius",
   "main": "index.js",
   "scripts": {
